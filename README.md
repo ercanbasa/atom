@@ -1,4 +1,4 @@
-atom
-====
+ATOM MODELİ
+===========
 
-Atom
+Bizim suyun altında çalışan atom modelimiz var!
